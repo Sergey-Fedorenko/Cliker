@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: eb69bca0a2bbe6a478ce8013c0e89339
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myFx: {instanceID: 0}
+  - clickFx: {fileID: 8300000, guid: 8c0928f10fed1a74fbb87c3445d92760, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
